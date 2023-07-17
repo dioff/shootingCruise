@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="text" type="text" name="text" output="screen">
+	</node>
+</launch>

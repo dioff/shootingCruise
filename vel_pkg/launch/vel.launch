@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="vel_pkg" type="vel_node" name="vel_node" output="screen">
+	</node>
+</launch>
